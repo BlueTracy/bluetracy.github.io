@@ -1,0 +1,16 @@
+baseURL = 'http://cctvlog.com/'
+languageCode = 'zh-CN'
+title = '狸白笔记'
+theme = 'LoveIt'
+copyright = '粤ICP备19153532号'
+
+[params]
+  title = '狸白笔记'
+  description = '狸白笔记'
+  [params.header]
+    [params.header.title]
+      name = '狸白笔记'
+      typeit = false
+  [params.footer]
+    hugo = false
+    icp = '<a href="https://beian.miit.gov.cn/">粤ICP备19153532号</a>'
