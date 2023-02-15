@@ -1,4 +1,4 @@
-baseURL = 'http://cctvlog.com/'
+baseURL = 'https://www.cctvlog.com/'
 languageCode = 'zh-CN'
 title = '狸白笔记'
 theme = 'LoveIt'
